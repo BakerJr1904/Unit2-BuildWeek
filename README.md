@@ -7,7 +7,7 @@ This first one was just practice which consisted of a scatter plot and a map. Af
 [My SunBurst Plotly/Dash App](https://data-science2021-3.herokuapp.com/)
 ### The Assignment 
 (This notebook was made and can run in Google Colab, modifications may be needed to run elsewhere.)<br/>
-Take the Kaggle Life Expectancy CSV file, and wrangle the data. This consisted of cleaning the data and Feature Engineering and Encoding the data. Then we needed to split and scale the data, but we only want to scale (X), we don’t want to scale what we are trying to predict (y). I used StandardScaler().<br/>
+Take the Kaggle Life Expectancy CSV file, and wrangle the data. This consisted of cleaning the data and Feature Engineering and Encoding the data. Then we needed to split and scale the data, but we only want to scale (X), we don’t want to scale what we are trying to predict (y). I used StandardScaler(). My target was Life Expectancy. I used Matplotlib to plot the value counts of (y). the data was split into a training set, a validation set and a testing set. The Baseline accuracy was then predicted.  <br/>
 
 
 
