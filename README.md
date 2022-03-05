@@ -4,6 +4,7 @@ We had one weekend to finish the assessment, learn Plotly/Dash and create a Plot
 This first one was just practice which consisted of a scatter plot and a map. After that I did an animation scatter plot, just because I thought it would show my skills and motivation. I was running out of time but, I saw a sunburst plot that I just had to do. All of which are fully interactive Plotly/Dash apps.<br/>
 
 [My Practice Plotly/Dash App](https://data-science2021.herokuapp.com/)<br/>
+
 [My Animated Plotly/Dash App](https://data-science2021-2.herokuapp.com/)<br/>
 [My SunBurst Plotly/Dash App](https://data-science2021-3.herokuapp.com/)
 ### The Assignment 
